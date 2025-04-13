@@ -2,10 +2,10 @@
 
 ## Idea
 
-
-
 ## Example
+
 ### Chess Board
+
 We have a 8x8 Chess board and 2x1 dominos (horizontal and vertical).
 Can we cover the chess board with these dominos without overlapping? -> yes
 Now if we remove opposite edges on the corner of the chess board (two white ones or two black ones), is this still the case?
@@ -15,6 +15,7 @@ Now if we remove opposite edges on the corner of the chess board (two white ones
 -> therefore it is impossible to cover the chess board.
 
 ### Numbers on the wall
+
 1, 2, ..., 100 are written on a wall. At any step, Erase a b ; Add a+b-1. After 99 steps, what number remains?
 - 1 2 3 4 5 
     a     b
@@ -37,15 +38,16 @@ s-1             99
 s-99            1
 
 ### Infinite strip of squares
+
 Finite number stones placed on infinite in both directions strip of squares
 - at any step: pick up 2 stones at the same location (if possible)
 - move one left one right
 Question: Can we return to the original configuration after a finite number of steps?
 Steps:
 - label one square as 0 and left negative and right positive
-- label each stone with a weight ni*ni = i*i (squaring to keep track of distance)
--> Monovariant: X=SUM(ni*ni)
-When shifting a stone the change is from 2*(i*i) (two stones, each i*i) which then changes to (i-1)*(i-1) + (i+1)(i+1) = 2i*i+2
+- label each stone with a weight ni^2 = i^2 (squaring to keep track of distance)
+-> Monovariant: X=SUM(ni^2)
+When shifting a stone the change is from 2*(i^2) (two stones, each i^2) which then changes to (i-1)^2 + (i+1)^2 = 2*i^2+2
 therefore, after each step X will increase by 2 each step. => We can not go back to the initial X because X is always increasing so the initial X can not be same as the ending X.
 
 ### Numbers on a board
