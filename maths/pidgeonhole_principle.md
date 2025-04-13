@@ -26,5 +26,13 @@ Steps using the pidgeonhole principle:
 -> 16 boxes, => ceil(n/16) = 2 => n = 17
 
 
+## Strong Form
+Let q1, q2, ..., qn be positive integers. If q1+q2+...+qn-n+1 objects are put into n boxes, then either the 1st box contains at least q1 objects, or the second box contains at least q2 objects, ..., or the nth box contains at least qn objects.
+
+### Examples:
+### Fruits
+A basked ot fruit has apples, bananas and oranges. What is the smallest number of pieces of fruit that should be put in the basket in order to guarantee that either there are at least 8 apples or at least 6 bananas or at least 9 oranges?
+-> 8+6+9 - 3 + 1 = 21
+
 # Remember
 ceil(n/n-1) = 2
