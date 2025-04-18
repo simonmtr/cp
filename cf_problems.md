@@ -22,12 +22,12 @@
 |11|04.04.2025|118A|1000|Go through string, check for the vowel, if yes add a '.' to the place where the vowel would have been. Output the resulting string.|[Code](cf_problems/1000/118A.cpp)|
 |10|04.04.2025|266A|800|Go through the string, if the last char is the same as the current, add one to the count and output the count in the end.|[Code](cf_problems/800/266A.cpp)|
 |9|03.04.2025|2095A|X|Output the word 'puzzling'.|-|
-|8|26.02.2025|1692A|800|Count the amount of numbers that are higher than a, output the count.|[Code](cf_problems/800/1692A.cpp)|
-|7|24.02.2025|1742A|800|If statement that checks if one is the sum of the others, output YES or NO depending on the result.|[Code](cf_problems/800/1742A.cpp)|
-|6|22.02.2025|734A|800|Keep counter for the case that Anton wins, in the end calculate if he won more than half, its even or lost more than half.|[Code](cf_problems/800/734A.cpp)|
-|5|22.02.2025|791A|800|As long as a<=b increase a by 3 and b by 2, keep count and output the count in the end.|[Code](cf_problems/800/791A.cpp)|
-|4|20.02.2025|236A|800|Add chars to list, if in the end %2 == 0 -> Female|[Code](cf_problems/800/236A.cpp)|
-|3|20.02.2025|231A|800|Sum the votes, if its more than 2 add to the result counter and output the result.|[Code](cf_problems/800/231A.cpp)|
-|2|18.02.2025|2069A|800|Check the array if the string '101' exists. If thats the case there is an error and output NO|[Code](cf_problems/800/2069A.cpp)|
-|1|18.02.2025|4A|800|If watermelons are divisible by 2 and more than 2 then output YES.|[Code](cf_problems/800/4A.cpp)|
+|8|26.02.2025|1692A|800|Count the amount of numbers that are higher than a, output the count.|-|
+|7|24.02.2025|1742A|800|If statement that checks if one is the sum of the others, output YES or NO depending on the result.|-|
+|6|22.02.2025|734A|800|Keep counter for the case that Anton wins, in the end calculate if he won more than half, its even or lost more than half.|-|
+|5|22.02.2025|791A|800|As long as a<=b increase a by 3 and b by 2, keep count and output the count in the end.|-|
+|4|20.02.2025|236A|800|Add chars to list, if in the end %2 == 0 -> Female|-|
+|3|20.02.2025|231A|800|Sum the votes, if its more than 2 add to the result counter and output the result.|-|
+|2|18.02.2025|2069A|800|Check the array if the string '101' exists. If thats the case there is an error and output NO|-|
+|1|18.02.2025|4A|800|If watermelons are divisible by 2 and more than 2 then output YES.|-|
 ---
