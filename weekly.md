@@ -1,4 +1,4 @@
-# Weekly Plan – Fast Track to HFT Offers (Jane Street Focus)
+# Weekly Plan 
 
 ## Weekdays (2.5 hrs/day x 5 = 12.5 hrs)
 
@@ -13,7 +13,7 @@
 - 0.5 hr: Write 1 short proof or explanation
 
 ### Wednesday – Puzzle + Interview Day
-- 1.5 hrs: Jane Street-style logic or math puzzle (solve + reflect)
+- 1.5 hrs: Logic or math puzzle (solve + reflect)
 - 1 hr: Leetcode Hard or CTCI-style whiteboard problem
 
 ### Thursday – C++/Systems Focus
@@ -38,7 +38,7 @@
 - 2 hrs: Math + probability drills (see math list)
 - 1.5 hrs: Puzzle or whiteboard-style mock
 - 1.5 hrs: Advanced C++ concept or project (lock-free, perf, cache sim)
-- Optional: Read Real World OCaml or blog post from HFT eng
+- Optional: Read Real World OCaml or blog post
 
 ## Weekly Goals
 - Codeforces: 10+ problems solved
