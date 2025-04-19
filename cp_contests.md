@@ -9,6 +9,6 @@
 
 ## AtCoder
 
-|COUNT|DATE|NAME|RATING CHANGE|NEW RATING|NOTES|URL|
-|-----|----|----|-------------|----------|-----|---|
-|1|19.04.2025|AtCoder Beginner Contest 402|+14|14|2/7| First two questions done in <10 minutes, afterwards struggled a lot with implementation, had the correct idea though.|[Contest](https://atcoder.jp/contests/abc402)|
+|COUNT|DATE|NAME|RATING CHANGE|NEW RATING|SOLVED|NOTES|URL|
+|-----|----|----|-------------|----------|------|-----|---|
+|1|19.04.2025|AtCoder Beginner Contest 402|+14|14|2/7| First two questions done in <10 minutes, afterwards struggled a lot with implementation, had the correct idea though. | [Contest](https://atcoder.jp/contests/abc402)|
