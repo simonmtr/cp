@@ -1,4 +1,4 @@
-# Math Topics for HFT Interviews (Jane Street/Citadel Level)
+# Math Topics
 
 ## 🧠 Discrete Math
 - Pigeonhole Principle
@@ -40,5 +40,4 @@
 - "Probability and Computing" – Mitzenmacher & Upfal
 - Art of Problem Solving Vol 1 & 2
 - Brilliant.org or Project Euler math problems
-- Jane Street puzzles archive
 
