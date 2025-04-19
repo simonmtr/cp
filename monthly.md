@@ -1,4 +1,4 @@
-# Month-by-Month Goals – 6 Month Fast Lane to HFT Offer
+# Month-by-Month Goals
 
 ## Month 1
 - Codeforces: Reach ~1500+
@@ -36,11 +36,10 @@
 - Solve: 40 problems/month minimum (with review)
 - Do: 3 real-world interviews or recruiter calls
 - C++: Understand undefined behavior, as-if rule, perf tuning
-- Finalize resume + get referrals if possible
 
 ## Month 6
 - Mock with friends / platforms (Pramp, peers, etc.)
 - Re-review all notes/puzzles (meta-learning)
-- Apply to: Jane Street, HRT, Jump, Hudson River, IMC
+- Apply
 - Build: Personal writeup/blog/github on problem-solving
 
