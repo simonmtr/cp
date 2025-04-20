@@ -1,0 +1,25 @@
+#include <iostream>
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int n,t;
+    string s;
+    cin >> n >> t >> s;
+    if (n == 1) {
+        cout << s;
+        return 0;
+    }
+    for (int i = 0; i<t;i++) {
+        for (int j = 0; j<n-1;j++) { 
+            if (s[j] == 'B' && s[j+1] == 'G') {
+                swap(s[j], s[j+1]);
+                j++;
+            }
+        }
+    }
+    cout << s;
+}

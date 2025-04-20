@@ -6,6 +6,10 @@ using namespace std;
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-    int t;
-    cin >> t;
+    string s, news;
+    cin >> s;
+    news = toupper(s[0]);
+    news += s.substr(1, s.length()-1);
+
+    cout << news;
 }

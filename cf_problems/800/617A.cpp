@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <bits/stdc++.h>
 
@@ -8,4 +9,5 @@ int main() {
     cin.tie(nullptr);
     int t;
     cin >> t;
+    cout << (t + 4) / 5;
 }

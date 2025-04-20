@@ -81,9 +81,26 @@
 |1|04.04.2025|118A|1000|Go through string, check for the vowel, if yes add a '.' to the place where the vowel would have been. Output the resulting string.|[Code](cf_problems/1000/118A.cpp)|
 
 ## <1000
-
+**30/50**
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
+|33|20.04.2025|136A|800|Create array with numbers of the gifters of the gift. Output the array in order.|[Code](cf_problems/800/136A.cpp)|
+|32|20.04.2025|486A|800|Check if even or odd. If odd, result is -(n/2 + 1), if even result is n/2. Output the result in the end.|[Code](cf_problems/800/486A.cpp)|
+|31|20.04.2025|467A|800|Iterate all rooms, if size - people >= 2 add one to the counter of possible rooms. Output the room amount at the end.|[Code](cf_problems/800/467A.cpp)|
+|30|20.04.2025|266B|800|Save input in string, go through string as many times as input says, each time check if s[i] is a boy and s[i+1] is a girl, if yes then switch. Output the complete string in the end.|[Code](cf_problems/800/266B.cpp)|
+|29|20.04.2025|1030A|800|Go through the input, if its a 1 output HARD. Once through all inputs output EASY.|[Code](cf_problems/800/1030A.cpp)|
+|28|20.04.2025|271A|800|Use set to keep track of unique digits, for each digit check if its already in the set, if yes try next higher number. Care for upper bound of 9012 (in case the number is 9000). Output correct number once found that the set is of length 4.|[Code](cf_problems/800/271A.cpp)|
+|27|20.04.2025|116A|800|Keep count of max capacity and current people in the tram. For each station, see the capacity at the end and take the max from current max and temp_max. Output the max at the end.|[Code](cf_problems/800/116A.cpp)|
+|26|20.04.2025|677A|800|Iterate through input of friends, if taller than fence add 2, else add 1 to the result. Output the result.|[Code](cf_problems/800/677A.cpp)|
+|25|20.04.2025|41A|800|Iterate string length and compare index and index-1-i. Output NO if not same, else YES.|[Code](cf_problems/800/41A.cpp)|
+|24|20.04.2025|110A|800|While the number is bigger than 0 check if %10 is 7 or 4, if yes divide by 10 and add to the luckynumber count. Do the same for the lucky number count, but now if its not a lucky number exit and output NO. Output YES if loop is successful.|[Code](cf_problems/800/110A.cpp)|
+|23|20.04.2025|977A|800|One loop and decide with if %10!=0 what action to choose. Output the result.|[Code](cf_problems/800/977A.cpp)|
+|22|20.04.2025|59A|800|Count upper and lower case letters, change all accordingly to the rules. Output the new string.|[Code](cf_problems/800/59A.cpp)|
+|21|20.04.2025|546A|800|Take initial money and substract initial price, then loop through the bananas and substract i*initial_price. Edge case if there is enough money already, then outout 0. Output absolute of the money.|[Code](cf_problems/800/546A.cpp)|
+|20|20.04.2025|617A|800|Take maximum of steps of 5 and then one more. Output amount.|[Code](cf_problems/800/617A.cpp)|
+|19|20.04.2025|281A|800|Take first letter and capitalize, then substring the rest of the string. Output new string.|[Code](cf_problems/800/281A.cpp)|
+|18|20.04.2025|339A|800|Count ones twos threes, later print them out in order with + between.|[Code](cf_problems/800/339A.cpp)|
+|17|20.04.2025|112A|800|Make strings lowercase and directly compare with < > ==. Output accordingly.|[Code](cf_problems/800/112A.cpp)|
 |16|20.04.2025|263A|800|Find the coordinates of the 1. Use math to calculate distance to middle. Output distance.|[Code](cf_problems/800/263A.cpp)|
 |15|20.04.2025|50A|800|Output (n*m)/2.|[Code](cf_problems/800/50A.cpp)|
 |14|20.04.2025|158A|800|Find the number that is the bound, iterate through the array and count numbers that are greater that this number. Output that count.|[Code](cf_problems/800/158A.cpp)|
