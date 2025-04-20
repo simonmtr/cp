@@ -84,6 +84,7 @@
 
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
+|15|20.04.2025|50A|800|Output (n*m)/2.|[Code](cf_problems/800/50A.cpp)
 |14|20.04.2025|158A|800|Find the number that is the bound, iterate through the array and count numbers that are greater that this number. Output that count.|[Code](cf_problems/800/158A.cpp)|
 |13|19.04.2025|282A|800|Check first and last char of input string for + or -. Add or subtract to the result. Output the result.|[Code](cf_problems/800/282A.cpp)|
 |12|19.04.2025|71A|800|For strings shorter that 10 return the string, for others return the first char + len-2 + last char. Output for each string.|[Code] (cf_problems/800/71A.cpp)|
