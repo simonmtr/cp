@@ -557,7 +557,7 @@
 |5||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |4||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |3||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|2||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
+|2||706B|1100|Explanation.|[Code](cf_problems/1100/706B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/706/B)|
 |1|06.04.2025|158B|1100|Count the groups of 1,2,3,4 people. If statement to prioritize matching while reducing the group count, for example 3s match with 1s, 2s with 2s, .... Output the taxi count at the end.|[Code](cf_problems/1100/158B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/158/B)|
 
 ## 1000
