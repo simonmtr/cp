@@ -81,12 +81,12 @@
 |1|04.04.2025|118A|1000|Go through string, check for the vowel, if yes add a '.' to the place where the vowel would have been. Output the resulting string.|[Code](cf_problems/1000/118A.cpp)|
 
 ## <1000
-**30/50**
+**50/50**
 |COUNTER|DATE|ID|RATING|NOTES|LINK|
 |-------|----|--|------|-----|----|
-|50|21.04.2025|96A|900|.|[Code](cf_problems/900/96A.cpp)|
-|49|21.04.2025|405A|900|.|[Code](cf_problems/900/405A.cpp)|
-|48|21.04.2025|133A|900|.|[Code](cf_problems/900/133A.cpp)|
+|50|21.04.2025|96A|900|Keep a counter of ones and zeroes until one counter reaches 7. Output YES if thats the case, otherwise output NO in the end.|[Code](cf_problems/900/96A.cpp)|
+|49|21.04.2025|405A|900|Read the input of numbers and sort them. Output each number of the sorted list in the end.|[Code](cf_problems/900/405A.cpp)|
+|48|21.04.2025|133A|900|Read input string, for each char check compare to the chars that output something. If matching, output YES. Output no otherwise in the end.|[Code](cf_problems/900/133A.cpp)|
 |47|20.04.2025|318A|900|Differentiate between searching for odd or even number by seeing if k*2 smaller or greater than n. Find the kth even or odd number. Output that number in the end.|[Code](cf_problems/900/318A.cpp)|
 |46|20.04.2025|160A|900|Read input and save total sum of coins. Sort the coins descending. Iterate through the coins, checking everytime if mycoins are greater than half the coins, keep count of the coins. Output the cound of the coins in the end.|[Code](cf_problems/900/160A.cpp)|
 |45|20.04.2025|443A|800|Optional: Parse the input string to remove the spaces. Afterwards find out, with some string logic, the actual characters given in the input string. Save them in a set. Output the length of the set in the end.|[Code](cf_problems/800/443A.cpp)|
