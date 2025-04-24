@@ -594,7 +594,7 @@
 |24||450A|1000|Explanation.|[Code](cf_problems/1000/450A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/450/A)|
 |23||1521A|1000|Explanation.|[Code](cf_problems/1000/1521A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1521/A)|
 |22||124A|1000|Explanation.|[Code](cf_problems/1000/124A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/124/A)|
-|21||1476A|1000|Explanation.|[Code](cf_problems/1000/1476A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1476/A)|
+|21|24.05.2025|1476A|1000|First we have to find the smallest number, that is divisible by k while being greater or equal to n which we can do by calculating multi=(n+k-1)/k. Then we have to find the minimum a(i) which is s/n ny calculating ((multi*k)+n-1)/n. Output that result in the end.|[Code](cf_problems/1000/1476A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1476/A)|
 |20|24.05.2025|499B|1000|Create map with first and second word and an entry for each word. Once the word comes in, check the map and choose the more suiting word. Output the concatination of these words in the end.|[Code](cf_problems/1000/499B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/499/B)|
 |19|24.04.2024|577A|1000|Each column where x is divided by with 0 rest, x can appear only once. So we keep track of these columns. Output the count of columns in the end.|[Code](cf_problems/1000/577A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/577/A)|
 |18|24.04.2025|1342A|1000|Check if a+a>b or <=b and therefore get the cheapest values and best strategy. Output the min number.|[Code](cf_problems/1000/1342A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1342/A)|
