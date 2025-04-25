@@ -591,7 +591,7 @@
 |27||1791D|1000|Explanation.|[Code](cf_problems/1000/1791D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/D)|
 |26||1999B|1000|Explanation.|[Code](cf_problems/1000/1999B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/B)|
 |25||1353C|1000|Explanation.|[Code](cf_problems/1000/1353C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1353/C)|
-|24||450A|1000|Explanation.|[Code](cf_problems/1000/450A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/450/A)|
+|24|25.04.2025|450A|1000|Find the highest number the most in the back of the line. Save the index. Output that index.|[Code](cf_problems/1000/450A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/450/A)|
 |23|25.04.2025|1521A|1000|We use A and A*B as the numbers we sum together and equal it to A*(B+1). Output these Numbers, beware of edge case when b is equal to 1.|[Code](cf_problems/1000/1521A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1521/A)|
 |22|25.04.2025|124A|1000|We have two conditions which are a<=i-1 and n-i<=b. In the end it comes out to n-max(1+a, n-b)+1. Output this number in the end.|[Code](cf_problems/1000/124A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/124/A)|
 |21|24.04.2025|1476A|1000|First we have to find the smallest number, that is divisible by k while being greater or equal to n which we can do by calculating multi=(n+k-1)/k. Then we have to find the minimum a(i) which is s/n ny calculating ((multi*k)+n-1)/n. Output that result in the end.|[Code](cf_problems/1000/1476A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1476/A)|
