@@ -589,7 +589,7 @@
 |30||1690D|1000|Explanation.|[Code](cf_problems/1000/1690D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1690/D)|
 |29||766B|1000|Explanation.|[Code](cf_problems/1000/766B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/766/B)|
 |28||1985C|1000|Explanation.|[Code](cf_problems/1000/1985C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1985/C)|
-|27||1791D|1000|Explanation.|[Code](cf_problems/1000/1791D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/D)|
+|27|26.04.2025|1791D|1000|Try out every possiblity, easily done by having two vectors with 0 for chars that are not in the string and 1 for chars that are in the string. Output the maximum number of all possibilities in the end.|[Code](cf_problems/1000/1791D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/D)|
 |26|26.04.2025|1999B|1000|Simulate each game for unfolding each possibility. Output the games where we win in the end.|[Code](cf_problems/1000/1999B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/B)|
 -
 |25|25.04.2025|1353C|1000|For each step away from the middle we need one more step to the middle for the piece. In the center, its 8 pieces, then 16, then 24 and so on, so every time 8 more. So we have a sum of 1*8+2*16+3*24+... -> we can make a loop to sum this up. Output the result in the end.|[Code](cf_problems/1000/1353C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1353/C)|
