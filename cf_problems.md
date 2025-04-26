@@ -588,7 +588,7 @@
 |31||1141A|1000|Explanation.|[Code](cf_problems/1000/1141A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1141/A)|
 |30||1690D|1000|Explanation.|[Code](cf_problems/1000/1690D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1690/D)|
 |29||766B|1000|Explanation.|[Code](cf_problems/1000/766B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/766/B)|
-|28||1985C|1000|Explanation.|[Code](cf_problems/1000/1985C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1985/C)|
+|28|26.04.2025|1985C|1000|The only way this is possible is with the highest number, as all numbers are positive. So for each input we get the max number seen so far and check if the sum of all elements minus the max number is equal to the max number. If yes, add one to the results. Output the result count in the end.|[Code](cf_problems/1000/1985C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1985/C)|
 |27|26.04.2025|1791D|1000|Try out every possiblity, easily done by having two vectors with 0 for chars that are not in the string and 1 for chars that are in the string. Output the maximum number of all possibilities in the end.|[Code](cf_problems/1000/1791D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/D)|
 |26|26.04.2025|1999B|1000|Simulate each game for unfolding each possibility. Output the games where we win in the end.|[Code](cf_problems/1000/1999B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1999/B)|
 -
