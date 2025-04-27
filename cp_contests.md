@@ -11,4 +11,5 @@
 
 |COUNT|DATE|NAME|RATING CHANGE|NEW RATING|SOLVED|NOTES|URL|
 |-----|----|----|-------------|----------|------|-----|---|
-|1|19.04.2025|AtCoder Beginner Contest 402|+14|14|2/7| First two questions done in <10 minutes, afterwards struggled a lot with implementation, had the correct idea though. | [Contest](https://atcoder.jp/contests/abc402)|
+|2|27.04.2025|AtCoder Beginner Contest 403|+XX|XXX|3/7| Problem A was quite simple, done in 2 minutes. Worked on C afterwards, did that in around 17 minutes. Was coding G then, as I felt this was relatively simple implementation, where I passed the initial tests, but the solution was not optimized enough so ran into TLE. Finished B in the end after coming back to it, making it total 3/7 problems solved. | [Contest](https://atcoder.jp/contests/abc403)|
+|1|19.04.2025|AtCoder Beginner Contest 402|+14|14|2/7| First two problems done in <10 minutes, afterwards struggled a lot with implementation, had the correct idea though. | [Contest](https://atcoder.jp/contests/abc402)|
