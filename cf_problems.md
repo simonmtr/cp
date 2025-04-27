@@ -579,7 +579,7 @@
 |39||1182A|1000|Explanation.|[Code](cf_problems/1000/1182A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1182/A)|
 |38||1520C|1000|Explanation.|[Code](cf_problems/1000/1520C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1520/C)|
 |37||1840C|1000|Explanation.|[Code](cf_problems/1000/1840C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1840/C)|
-|36||1913B|1000|Explanation.|[Code](cf_problems/1000/1913B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1913/B)|
+|36|27.04.2025|1913B|1000|Count the ones and zeroes, then create the new string until a one is not replacable by a zero and the way around. Output the difference between the input string and the created string in the end.|[Code](cf_problems/1000/1913B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1913/B)|
 -
 |35|27.04.2025|1883C|1000|Differentiate between the different k's. For 2, 3, 5 if there is one number in ai that is same, we output 0, else we get the closest value to one of these k's. For k=4 we have to look at the even numbers, if its more than 2 even numbers we know its divisible by 4, if its only 1 even number or the maximum distance to 4 is 3 then we can output 1, otherwise if k=4 we output 2 as it means we only have odd numbers.|[Code](cf_problems/1000/1883C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1883/C)|
 |34|27.04.2025|139A|1000|Read the input and go through each day, substracting the pages read. Do that while there are pages left. Output the current day in the end when no pages are left.|[Code](cf_problems/1000/139A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/139/A)|
