@@ -575,7 +575,7 @@
 |43||1474B|1000|Explanation.|[Code](cf_problems/1000/1474B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1474/B)|
 |42||1941B|1000|Explanation.|[Code](cf_problems/1000/1941B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1941/B)|
 |41||766A|1000|Explanation.|[Code](cf_problems/1000/766A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/766/A)|
-|40||1473B|1000|Explanation.|[Code](cf_problems/1000/1473B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1473/B)|
+|40|28.04.2025|1473B|1000|The substring has to be a string of the lenght of the minimum divisor of length of s and t. So we have to multiply this smallest substring out for each string and see if it matches. Output this string if it is true.|[Code](cf_problems/1000/1473B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1473/B)|
 |39|28.04.2025|1182A|1000|It is only possible for even numbers, as the height always stays 3 and we can combine 2 l-shapes to a 3x2 shape. Then we have to just use 2 to the power of n/2 to calculate the amount of possibilities, for each 3x2 shape we have 2 options. Output the amount of possibilities in the end.|[Code](cf_problems/1000/1182A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1182/A)|
 |38||1520C|1000|DO LATER.|[Code](cf_problems/1000/1520C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1520/C)|
 |37|28.04.2025|1840C|1000|For each step we check the current temperature compared to the comfortable one. If its less we can add to the current lenght, else we set the current length to 0. For each interval in the current length we add one to the answer. Output the answer in the end.|[Code](cf_problems/1000/1840C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1840/C)|
