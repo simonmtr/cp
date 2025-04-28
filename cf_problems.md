@@ -571,7 +571,7 @@
 |47||1326A|1000|Explanation.|[Code](cf_problems/1000/1326A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1326/A)|
 |46||118B|1000|Explanation.|[Code](cf_problems/1000/118B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/118/B)|
 |45||1859B|1000|Explanation.|[Code](cf_problems/1000/1859B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1859/B)|
-|44||1744C|1000|Explanation.|[Code](cf_problems/1000/1744C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1744/C)|
+|44|28.04.2025|1744C|1000|Duplicate the string to get rid of the circle. Then for each time we find c, count until we find 'g' and keep a max count. Output the max count in the end.|[Code](cf_problems/1000/1744C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1744/C)|
 |43||1474B|1000|DO LATER.|[Code](cf_problems/1000/1474B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1474/B)|
 |42|28.04.2025|1941B|1000|Go through the whole array and use the conditions. Once we find a number smaller than 0 we output NO. Otherwise in the end we check the two last indexes and check if they are 0 or not. If not, output NO. Otherwise output YES.|[Code](cf_problems/1000/1941B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1941/B)|
 |41|28.04.2025|766A|1000|If the strings are the same, there is no uncommon subsequence, so the output is -1. If the strings are unequal length, the longest uncommon subsequence is just the longer string, so the output is max(a.length(), b.length()). If they are the same length but not teh same, the longest is the max of their lenght as well. Output that length in the end.|[Code](cf_problems/1000/766A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/766/A)|
