@@ -395,6 +395,7 @@
 ## 1300
 
 **Total: 3/50**
+-> 25.05.2025
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50||X|1300|Explanation.|[Code](cf_problems/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -451,6 +452,7 @@
 ## 1200
 
 **Total: 4/50**
+-> 18.05.2025
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50||X|1200|Explanation.|[Code](cf_problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -507,6 +509,7 @@
 ## 1100
 
 **Total: 1/50**
+-> 11.05.2025
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50||X|1100|Explanation.|[Code](cf_problems/1100/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
