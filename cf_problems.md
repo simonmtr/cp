@@ -555,8 +555,8 @@
 |10||467B|1100|Explanation.|[Code](cf_problems/1100/467B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/467/B)|
 |9||519B|1100|Explanation.|[Code](cf_problems/1100/519B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/519/B)|
 |8||1327A|1100|Explanation.|[Code](cf_problems/1100/1327A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1327/A)|
-|7||368B|1100|Explanation.|[Code](cf_problems/1100/368B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/368/B)|
-|6||270A|1100|Explanation.|[Code](cf_problems/1100/270A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/270/A)|
+|7|10.05.2025|368B|1100|Create array, then loop backwards to create one more array to save the unique numbers at that point. Read the input of the queries. Output the result of the unique numbers for each query.|[Code](cf_problems/1100/368B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/368/B)|
+|6|10.05.2025|270A|1100|We have to calculate 360 % (180 - angle) == 0, and only if that is true it is possible to form a polygon. Output that result.|[Code](cf_problems/1100/270A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/270/A)|
 |5|10.05.2025|313B|1100|Create DP Array where for each similar s[i]==s[i-1] we add one to the count and add it to dp[i]. Go through the left, right query and return the difference between the dp[l-1] and dp[r-1]. Output that difference.|[Code](cf_problems/1100/313B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/313/B)|
 |4|06.05.2025|456A|1100|We just have to check for each laptop, if there is one where a != b. The constraints say that b will never be lower than a, so thats why this is such a simple solution. Output the corresponding message in the end.|[Code](cf_problems/1100/456A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/456/A)|
 |3|05.05.2025|363B|1100|Using prefix sum for all check the last k elements and the minimal sum, save that minimal index. Output the index in the end.|[Code](cf_problems/1100/363B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/363/B)|
