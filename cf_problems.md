@@ -553,7 +553,7 @@
 |12||1490C|1100|Explanation.|[Code](cf_problems/1100/1490C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1490/C)|
 |11||1335C|1100|Explanation.|[Code](cf_problems/1100/1335C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1335/C)|
 |10||467B|1100|Explanation.|[Code](cf_problems/1100/467B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/467/B)|
-|9||519B|1100|Explanation.|[Code](cf_problems/1100/519B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/519/B)|
+|9|10.05.2025|519B|1100|Calculate the sums of the arrays and find the difference. Output that difference each step.|[Code](cf_problems/1100/519B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/519/B)|
 |8|10.05.2025|1327A|1100|Two options for it to be a NO: k*k > n or n%2 != k%2. Output the result proper answer after an if statement.|[Code](cf_problems/1100/1327A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1327/A)|
 |7|10.05.2025|368B|1100|Create array, then loop backwards to create one more array to save the unique numbers at that point. Read the input of the queries. Output the result of the unique numbers for each query.|[Code](cf_problems/1100/368B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/368/B)|
 |6|10.05.2025|270A|1100|We have to calculate 360 % (180 - angle) == 0, and only if that is true it is possible to form a polygon. Output that result.|[Code](cf_problems/1100/270A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/270/A)|
