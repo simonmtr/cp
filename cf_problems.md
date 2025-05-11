@@ -395,7 +395,7 @@
 ## 1300
 
 **Total: 3/50**
--> 25.05.2025
+
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50||X|1300|Explanation.|[Code](cf_problems/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -452,7 +452,7 @@
 ## 1200
 
 **Total: 4/50**
--> 18.05.2025
+
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
 |50||X|1200|Explanation.|[Code](cf_problems/1200/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
@@ -548,7 +548,7 @@
 |17||349A|1100|Explanation.|[Code](cf_problems/1100/349A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/349/A)|
 |16||1873E|1100|Explanation.|[Code](cf_problems/1100/1873E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1873/E)|
 |15||1791E|1100|Explanation.|[Code](cf_problems/1100/1791E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/E)|
-|14||1472C|1100|Explanation.|[Code](cf_problems/1100/1472C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1472/C)|
+|14|11.05.2025|1472C|1100|Read the inputs and read it backwards. For each step, calculate the maximum value. Output that maximum value in the end.|[Code](cf_problems/1100/1472C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1472/C)|
 |13|11.05.2025|1360C|1100|If the even and odd numbers module 2 are not the same, we can never find fitting pairs, if the even numbers modulo 2 are 0 we can always find a solution. For any other case, find a pair that is fitting, if we can find that we know we can do all the pairs, otherwise we can not. Output that result in the end.|[Code](cf_problems/1360/C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1360/C)|
 |12|11.05.2025|1490C|1100|Precalculate all possible values for b^3. Iterate through all numbers and see if we can find any numer that is (n-a^3). Essentially brute forcing it. Output yes if a number is found, else output no.|[Code](cf_problems/1100/1490C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1490/C)|
 |11|11.05.2025|1335C|1100|Find the highest count of one number and the count of the different numbers. The answer can not be lower than the amount of different numbers or the count of the highest occuring number. Two cases exists, one that we can make two arrays with all the same numbers OR the same numbers - 1. Output that calculation in the end.|[Code](cf_problems/1100/1335C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1335/C)|
