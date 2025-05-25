@@ -543,7 +543,7 @@
 |22||227B|1100|Explanation.|[Code](problems/1100/227B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/227/B)|
 |21||1409B|1100|Explanation.|[Code](problems/1100/1409B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1409/B)|
 |20||1669F|1100|Explanation.|[Code](problems/1100/1669F.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1669/F)|
-|19||82A|1100|Explanation.|[Code](problems/1100/82A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/82/A)|
+|19||82A|1100|Take a number as 1, as long as this number times 5 (number of people) is not bigger than n, we update n and substract number*5, then we update the number by doubling it. Output the correct number name in the end, the person that is (n-1)/number in the list.|[Code](problems/1100/82A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/82/A)|
 |18|25.05.2025|1366A|1100|Check if the lower number*2 is smaller or equal than the bigger number. If thats the case, we can just return the lower number. Else, we can return a third of the sum of both numbers.|[Code](problems/1100/1366A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1366/A)|
 |17|25.05.2025|349A|1100|Keep track of the coins we have and see if we can give the change back. If its not possible, output NO. Output YES in the end if its possible.|[Code](problems/1100/349A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/349/A)|
 |16|25.05.2025|1873E|1100|Binary search through the input and check for each value, then check for each of these values the water needed and check if its not bigger than the input. Output the correct number in the end.|[Code](problems/1100/1873E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1873/E)|
