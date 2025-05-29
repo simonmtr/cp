@@ -512,25 +512,23 @@
 
 |COUNTER|DATE|ID|RATING|NOTES|LINK|CF-URL|
 |-------|----|--|------|-----|----|------|
-|50||2004C|1100|Explanation.|[Code](problems/1100/2004C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2004/C)|
-|49||1382B|1100|Explanation.|[Code](problems/1100/1382B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1382/B)|
-|48||1618C|1100|Explanation.|[Code](problems/1100/1618C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1618/C)|
-|47||1624C|1100|Explanation.|[Code](problems/1100/1624C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1624/C)|
-|46||1832B|1100|Explanation.|[Code](problems/1100/1832B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1832/B)|
-|45||1791G1|1100|Explanation.|[Code](problems/1100/1791G1.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/G1)|
-|44||478A|1100|Explanation.|[Code](problems/1100/478A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/478/A)|
-|43||1917B|1100|Explanation.|[Code](problems/1100/1917B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1917/B)|
-|42||1511C|1100|Explanation.|[Code](problems/1100/1511C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1511/C)|
-|41||1463A|1100|Explanation.|[Code](problems/1100/1463A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1463/A)|
-|40||1334B|1100|Explanation.|[Code](problems/1100/1334B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1334/B)|
-|39||1850E|1100|Explanation.|[Code](problems/1100/1850E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1850/E)|
-|38||1742D|1100|Explanation.|[Code](problems/1100/1742D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1742/D)|
-|37||1703D|1100|Explanation.|[Code](problems/1100/1703D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1703/D)|
-|36||1345B|1100|Explanation.|[Code](problems/1100/1345B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1345/B)|
-|35||1971D|1100|Explanation.|[Code](problems/1100/1971D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1971/D)|
-|34||224A|1100|Explanation.|[Code](problems/1100/224A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/224/A)|
-|33||1914C|1100|Explanation.|[Code](problems/1100/1914C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1914/C)|
-|32||463B|1100|Explanation.|[Code](problems/1100/463B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/463/B)|
+|48||2004C|1100|Explanation.|[Code](problems/1100/2004C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2004/C)|
+|47||1382B|1100|Explanation.|[Code](problems/1100/1382B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1382/B)|
+|46||1618C|1100|Explanation.|[Code](problems/1100/1618C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1618/C)|
+|45||1624C|1100|Explanation.|[Code](problems/1100/1624C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1624/C)|
+|44||1832B|1100|Explanation.|[Code](problems/1100/1832B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1832/B)|
+|43||1791G1|1100|Explanation.|[Code](problems/1100/1791G1.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1791/G1)|
+|42||478A|1100|Explanation.|[Code](problems/1100/478A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/478/A)|
+|41||1917B|1100|Explanation.|[Code](problems/1100/1917B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1917/B)|
+|40||1511C|1100|Explanation.|[Code](problems/1100/1511C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1511/C)|
+|39||1463A|1100|Explanation.|[Code](problems/1100/1463A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1463/A)|
+|38||1334B|1100|Explanation.|[Code](problems/1100/1334B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1334/B)|
+|37||1850E|1100|Explanation.|[Code](problems/1100/1850E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1850/E)|
+|36||1742D|1100|Explanation.|[Code](problems/1100/1742D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1742/D)|
+|35||1703D|1100|Explanation.|[Code](problems/1100/1703D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1703/D)|
+|34||1345B|1100|Explanation.|[Code](problems/1100/1345B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1345/B)|
+|33||224A|1100|Explanation.|[Code](problems/1100/224A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/224/A)|
+|32|29.05.2025|1971D|1100|Go through the string, count all parts, where current != next. If we encouter once where current = 0 and next = 1, remember to substract 1 in the end. Output the correct sum in the end.|[Code](problems/1100/1971D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1971/D)|
 |31|29.05.2025|1914C|1100|Use a priority queue to have a sorted list. For each step, calculate the max sum we would get from staying here and using the quest that gives the most XP. Output the result of that calculation in the end.|[Code](problems/1100/1914C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1914/C)|
 |30|27.05.2025|463B|1100|Go through the input, if the energy ever goes below 0 we add this number in positive to our result. Output the sum of this in the end.|[Code](problems/1100/463B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/463/B)|
 |29|26.05.2025|1213B|1100|Iterate prices from right to left and keep track of the minimum seen so far. Count the numbers bigger than the minimum. Output that number in the end.|[Code](problems/1100/1213B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1213/B)|
