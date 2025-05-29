@@ -526,7 +526,7 @@
 |37||1850E|1100|Explanation.|[Code](problems/1100/1850E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1850/E)|
 |36||1742D|1100|Explanation.|[Code](problems/1100/1742D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1742/D)|
 |35||1703D|1100|Explanation.|[Code](problems/1100/1703D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1703/D)|
-|34||1345B|1100|Explanation.|[Code](problems/1100/1345B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1345/B)|
+|34|29.05.2025|1345B|1100|Simple calulations, for each level there is a certain of sticks needed more than the level before. Go through it and brute force the solution. Output the amount of houses we are able to build in the end.|[Code](problems/1100/1345B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1345/B)|
 |33|29.05.2025|224A|1100|Use math formulas to solve this. We have three formulas, each of which we have to solve to get the result for one length. In the end output the result of multiplying the sum of the lengths times four.|[Code](problems/1100/224A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/224/A)|
 |32|29.05.2025|1971D|1100|Go through the string, count all parts, where current != next. If we encouter once where current = 0 and next = 1, remember to substract 1 in the end. Output the correct sum in the end.|[Code](problems/1100/1971D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1971/D)|
 |31|29.05.2025|1914C|1100|Use a priority queue to have a sorted list. For each step, calculate the max sum we would get from staying here and using the quest that gives the most XP. Output the result of that calculation in the end.|[Code](problems/1100/1914C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1914/C)|
