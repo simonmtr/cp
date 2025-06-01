@@ -12,4 +12,4 @@
 |36|01.06.2025|medium|Implementation only, keep track of all boxes, rows and colums in separate data structures and iterate through the input.|[Code](problems/leetcode/36.cpp)|[LC_URL](https://leetcode.com/problems/group-anagrams/description/)|
 |49|31.05.2025|medium|Use array of 26 chars as key for a dictionary, save all anagrams strings in there. Output that anagrams in the end.|[Code](problems/leetcode/49.cpp)|[LC_URL](https://leetcode.com/problems/group-anagrams/description/)|
 |128|31.05.2025|medium|Create a set for the numbers, then iterate through the set and for each number we check, if the next, and the next to next and so on number is in the set, only if the previous number is not in the set though. We keep count of the max sequence.|[Code](problems/leetcode/128.cpp)|[LC_URL](https://leetcode.com/problems/longest-consecutive-sequence/description/)|
-
+|347|01.06.2025|medium|Prio Queue with pair of {number, count}. Build the heap and keep K elements in it. In the end iterate through the heap and output the resulting numbers.|[Code](problems/leetcode/347.cpp)|[LC_URL](https://leetcode.com/problems/top-k-frequent-elements/description/)|
