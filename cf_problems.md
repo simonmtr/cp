@@ -523,7 +523,7 @@
 |40|1511C|1100|Explanation.|[Code](problems/1100/1511C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1511/C)|
 |39|1463A|1100|Explanation.|[Code](problems/1100/1463A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1463/A)|
 |38|1334B|1100|Explanation.|[Code](problems/1100/1334B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1334/B)|
-|37|1850E|1100|Explanation.|[Code](problems/1100/1850E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1850/E)|
+|37|1850E|1100|Binary search problem, calculate cardboard used for every w and check if it matches the input variable. Output that w in the end.|[Code](problems/1100/1850E.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1850/E)|
 |36|1742D|1100|Make one vector of int arrays to create a pair list in the beginning, possible as its only 1000 entries. Afterwards, for each input check tha map and keep track of the maximum value. Output that value in the end.|[Code](problems/1100/1742D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1742/D)|
 |35|1703D|1100|Create map of substrings to have fast access of checking substrings. Then for each string, check for each step if there are substrings existing in this map for the front and back part of the split of this current string. If yes, add a 1 to the output, if no add a 0.|[Code](problems/1100/1703D.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1703/D)|
 |34|1345B|1100|Simple calulations, for each level there is a certain of sticks needed more than the level before. Go through it and brute force the solution. Output the amount of houses we are able to build in the end.|[Code](problems/1100/1345B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1345/B)|
