@@ -499,7 +499,7 @@
 
 |COUNTER|ID|RATING|NOTES|LINK|CF-URL|
 |-------|--|------|-----|----|------|
-|50|1899B|1100|Explanation.|[Code](problems/1100/1899B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1899/B)|
+|50|1899B|1100|Brute force every possibility by checking for each k that divides n without rest. Keep track of the minimum and maximum and take the max difference in the end. Output that number.|[Code](problems/1100/1899B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1899/B)|
 |49|1899C|1100|Explanation.|[Code](problems/1100/1899C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1899/C)|
 |48|2004C|1100|Sort input in reversed order. Go through calculate the result of all the differences of the indexes, without any adaptions. Then go through every second value and find the difference between neighbours (rem). In the end, take all the differences minus the mininum of k and rem. Output that result in the end.|[Code](problems/1100/2004C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/2004/C)|
 |47|1382B|1100|Simulate the game by going throught he input. Keep track of the ones, as its a forced move. In the end, see how many forced moves are there and if they are divisible by 2. Output the correct winner in the end.|[Code](problems/1100/1382B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1382/B)|
