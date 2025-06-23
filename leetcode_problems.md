@@ -23,5 +23,6 @@
 |567|medium|Sliding Window, use Map for tracking the counts. Slide Window over s2 and reduce counts if we find a matching value. In the end, if the count of the not matched s1 values is 0 we know we found the anagram.|[Code](problems/leetcode/567.cpp)|[LC_URL](https://leetcode.com/problems/permutation-in-string/)|
 |**HARD**|**HARD**|**HARD**|**HARD**|**HARD**|**HARD**|
 |42|hard|Left and right pointer as well as a maximum value of left and right, the for each step of the way we calculate the water trapped in that step. Return the volume of the water in the end.|[Code](problems/leetcode/42.cpp)|[LC_URL](https://leetcode.com/problems/trapping-rain-water/description/)|
+|76|hard|Map for the letters we have to find. Two pointers to check for each index until all the needed chars are found. In the end, check the lowest length. Output that number.|[Code](problems/leetcode/76.cpp)|[LC_URL](https://leetcode.com/problems/minimum-window-substring/description/)|
 |**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|**EXAMPLE**|
 |X|easy|Explanation.|[Code](problems/leetcode/XA.cpp)|[LC_URL](URL)|
