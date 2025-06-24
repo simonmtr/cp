@@ -1,6 +1,7 @@
 # Types in C++
 
 ## Int
+
 |**Name**|**Size/Type**|**Range**|
 |--------|-------------|---------|
 |std::int8_t|8 Bit signed|-128 - 127|

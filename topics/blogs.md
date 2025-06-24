@@ -1,10 +1,8 @@
-# 📰 Daily & Weekly Reading
-
-Use this to read 1–2 pieces every day or every other day. Stay mentally sharp, absorb mindset, systems thinking, and math intuition.
+# Reading
 
 ---
 
-## 📘 1. HFT Culture & Company Blogs
+## Blogs
 
 - [Jane Street Blog](https://blog.janestreet.com/)
   - Interviews, puzzles, trading philosophy, OCaml.
@@ -17,7 +15,7 @@ Use this to read 1–2 pieces every day or every other day. Stay mentally sharp,
 
 ---
 
-## 🧠 2. Math, Puzzles, and Logic
+## Math, Puzzles, and Logic
 
 - [Project Euler](https://projecteuler.net/) – Math+code problems.
 - [Brilliant.org Daily Problems](https://brilliant.org/daily-problems/)
@@ -26,7 +24,7 @@ Use this to read 1–2 pieces every day or every other day. Stay mentally sharp,
 
 ---
 
-## ⚙️ 3. Systems, C++, and Performance
+## Systems, C++, and Performance
 
 - [CppCon Talks](https://www.youtube.com/user/CppCon)
 - [Perf.dev](https://perf.dev/)
@@ -35,20 +33,7 @@ Use this to read 1–2 pieces every day or every other day. Stay mentally sharp,
 
 ---
 
-## 🧊 4. Optional But Insightful
+## Optional But Insightful
 
 - [Matt Levine – Money Stuff](https://www.bloomberg.com/opinion/authors/ARg7kIuNEZc/matt-levine) – Newsletter.
 - [Paul Graham Essays](https://paulgraham.com/articles.html)
-
----
-
-## ✅ Weekly Habit Template
-
-- [ ] Mon: Read 1 blog (company or math)
-- [ ] Tue: Watch 1 CppCon talk (30 mins)
-- [ ] Wed: Solve 1 Project Euler or Brilliant problem
-- [ ] Thu: Read 1 systems article (Perf.dev / Dan Luu)
-- [ ] Fri: Jane Street puzzle or SIG logic post
-- [ ] Sat: Open-ended reading (optional)
-- [ ] Sun: Weekly insight summary
-
