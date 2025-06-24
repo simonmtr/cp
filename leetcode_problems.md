@@ -10,6 +10,7 @@
 |125|Two pointers, if not alpha numerical skip char, if alpha numerical compare left and right char. Go through whole string.|[Code](problems/leetcode/125.cpp)|[LC_URL](https://leetcode.com/problems/valid-palindrome/description/)|
 |217|Set for keeping seen numbers, if we find number in the set, we return.|[Code](problems/leetcode/217.cpp)|[LC_URL](https://leetcode.com/problems/contains-duplicate/description/)|
 |242|One array of 26 chars, for the first char add one for each existing char, for the second string substract one. Check if all values are 0 in the end. Sorting is also an option, by just sorting both and comparing if they are equal.|[Code](problems/leetcode/242.cpp)|[LC_URL](https://leetcode.com/problems/valid-anagram/description/)|
+|704|Simple binary search implementation.|[Code](problems/leetcode/704.cpp)|[LC_URL](https://leetcode.com/problems/binary-search/description/)|
 |**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|
 |3|Use set for seen values, go through list with left and right pointer and remove from left until not equal chars. Keep count of maximum value.|[Code](problems/leetcode/3.cpp)|[LC_URL](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
 |11|Two pointers, go from outside to the middle and always calculate the max water, move away from the smaller 'pillar'.|[Code](problems/leetcode/11.cpp)|[LC_URL](https://leetcode.com/problems/container-with-most-water/description/)|
