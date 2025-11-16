@@ -12,6 +12,7 @@
 |141|Two pointers, one fast (taking next to next node) one slow (taking next node). If they ever meet, then we know its a circle in the list.|[Code CPP](problems/leetcode/141.cpp)|[Code Python](problems/leetcode/141.py)|[LC_URL](https://leetcode.com/problems/linked-list-cycle)|
 |206|Have a current node to store temp states, then shift around the node pointers.|[Code CPP](problems/leetcode/206.cpp)|[Code Python](problems/leetcode/206.py)|[LC_URL](https://leetcode.com/problems/reverse-linked-list)|
 |217|Set for keeping seen numbers, if we find number in the set, we return.|[Code CPP](problems/leetcode/217.cpp)|[Code Python](problems/leetcode/217.py)|[LC_URL](https://leetcode.com/problems/contains-duplicate)|
+|226|Recursively switch left and right subtree of the current node.|[Code CPP](problems/leetcode/226.cpp)|[Code Python](problems/leetcode/226.py)|[LC_URL](https://leetcode.com/problems/invert-binary-tree)|
 |242|One array of 26 chars, for the first char add one for each existing char, for the second string substract one. Check if all values are 0 in the end. Sorting is also an option, by just sorting both and comparing if they are equal.|[Code CPP](problems/leetcode/242.cpp)|[Code Python](problems/leetcode/242.py)|[LC_URL](https://leetcode.com/problems/valid-anagram)|
 |704|Simple binary search implementation.|[Code CPP](problems/leetcode/704.cpp)|[Code Python](problems/leetcode/704.py)|[LC_URL](https://leetcode.com/problems/binary-search)|
 |**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|**MEDIUM**|
