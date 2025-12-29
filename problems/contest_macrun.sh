@@ -5,9 +5,9 @@ if [ $# -ne 2 ]; then
     exit 1
 fi
 
-RATING=$1
+CONTEST=$1
 NUMBER=$2
-CP="./codeforces/${RATING}/${NUMBER}.cpp"
+CP="./contests/codeforces/${CONTEST}/${NUMBER}.cpp"
 
 mkdir -p ./bin
 g++-15 -std=gnu++20 -O2 -Wall "$CP" -o ./bin/"$(basename "$CP" .cpp)".out && ./bin/"$(basename "$CP" .cpp)".out
