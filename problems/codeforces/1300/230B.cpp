@@ -1,45 +1,46 @@
 #include <iostream>
 #include <bits/stdc++.h>
 #include <cmath>
+#include <set>
 
 using namespace std;
 
+const int MAX_VAL = 1000001;
+
+set<long long> primes() {
+    static bool a[MAX_VAL];
+    for (int i = 2; i*i < MAX_VAL; ++i) {
+        if (!a[i]) {
+            for (int j = i*i; j < MAX_VAL; j+=i) {
+                a[j] = true;
+            }
+        }
+    }
+    set<long long> res;
+    for (int i = 2; i < MAX_VAL; ++i) {
+        if (!a[i]) {
+            res.insert((long long)i*i);
+        }
+    }
+    return res;
+}
+
 int main() {
-    long long t;
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int t;
     cin >> t;
-    vector<long long> numbers;
-    for (long long i = 0; i < t; i++) {
-        long long number;
-        cin >> number;
-        numbers.push_back(number);
-    }
-    vector<long long> prime_numbers(100003, 0);
-    prime_numbers[0] = 1;
-    prime_numbers[1] = 1;
-   for (long long i = 2; i <100003; i++){
-        if (prime_numbers[i] == 0) {
-            for (long long j = i*i; j<100003; j+=i) {
-                prime_numbers[j] = 1;
-            }
+
+    set<long long> prime_numbers(primes());
+
+    for (int i = 0; i < t; ++i) {
+        long long n;
+        cin >> n;
+        if (prime_numbers.find(n) != prime_numbers.end()) {
+            cout << "YES\n";
+        } else {
+            cout << "NO\n";
         }
-    }
-    for (auto n : numbers) {
-       if (n == 4) {
-        cout << "YES" << endl;
-            continue;
-       }
-       if (n<4 || n%2 == 0) {
-            cout << "NO" << endl;
-            continue;
-       }
-        long double sq = pow(n, 0.5);
-        if (sq == (long long) sq && sq <100003)  {
-            if (prime_numbers[(long long) sq] == 0) {
-                cout << "YES" << endl;
-                continue;
-            }
-        }
-        cout << "NO" << endl;
     }
 }
 
