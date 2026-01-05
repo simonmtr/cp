@@ -269,7 +269,7 @@
 |8|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |7|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
 |6|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
-|5|X|1300|Explanation.|[Code](problems/codeforces/1300/XA.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1/A)|
+|5|451B|1300|Do it in multiple steps. Go through the array until left pointer is found. Go further until the right point is found. Check the boundaries if they are matching. Check rest of the array if its sorted. If all is successful, return yes, otherwise its a no.|[Code](problems/codeforces/1300/451B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/451/B)|
 |4|230B|1300|Find primes with sieve of eratosthenes, save them in an array. Afterwards mark the squares of the prime numbers (which remain) as a valid solution. Check this set for the inputs of the test and cout the solution.|[Code](problems/codeforces/1300/230B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/230/B)|
 |3|189A|1300|Create DP with values on dp[a,b,c] = 1. Go through l and for each i check if i+a,b,c < l -> find max of last dp[a,b,c] and current dp+1. Output dp[l] in the end.|[Code](problems/codeforces/1300/189A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/189/A)|
 |2|4C|1300|Use a map, if the name is in the map already add a counter to it, else add it to the map. Output the name in order.|[Code](problems/codeforces/1300/4C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/4/C)|
