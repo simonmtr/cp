@@ -30,6 +30,7 @@
 |543|Count the edges from below to up, always take the max of right+left subtree.|[Code CPP](problems/leetcode/543.cpp)|[Code Python](problems/leetcode/543.py)|[LC_URL](https://leetcode.com/problems/diameter-of-binary-tree)|
 |572|Recursively check left and right subtree and compare (See LC 100). Do that for each subtree.|[Code CPP](problems/leetcode/572.cpp)|[Code Python](problems/leetcode/572.py)|[LC_URL](https://leetcode.com/problems/subtree-of-another-tree)|
 |704|Simple binary search implementation.|[Code CPP](problems/leetcode/704.cpp)|[Code Python](problems/leetcode/704.py)|[LC_URL](https://leetcode.com/problems/binary-search)|
+|1920|Simple creation of the array.|[Code CPP](problems/leetcode/1920.cpp)|[Code Python](problems/leetcode/1920.py)|[LC_URL](https://leetcode.com/problems/build-array-from-permutation/)|
 |2769|Maximum value can be achieved only with nums+t*2.|[Code CPP](problems/leetcode/2769.cpp)|[Code Python](problems/leetcode/2769.py)|[LC_URL](https://leetcode.com/problems/find-the-maximum-achievable-number)|
 |2894|Easy but not optimal solution: Loop through items and add to nums1 and nums2.|[Code CPP](problems/leetcode/2894.cpp)|[Code Python](problems/leetcode/2894.py)|[LC_URL](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)|
 |3512|Sum the array and modulo it with k.|[Code CPP](problems/leetcode/3512.cpp)|[Code Python](problems/leetcode/3512.py)|[LC_URL](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)|
