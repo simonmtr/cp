@@ -206,7 +206,7 @@
 |16|1857C|1200|Explanation.|[Code](problems/codeforces/1200/1857C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1857/C)|
 |15|1354B|1200|Explanation.|[Code](problems/codeforces/1200/1354B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1354/B)|
 |14|459A|1200|Explanation.|[Code](problems/codeforces/1200/459A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/459/A)|
-|13|1363A|1200|Explanation.|[Code](problems/codeforces/1200/1363A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1363/A)|
+|13|1363A|1200|Count the number of odds and even, then loop until x-1<=even_sum to know that we found a match and we can construct the solution.|[Code](problems/codeforces/1200/1363A.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1363/A)|
 |12|977C|1200|Sort the input, then check if k = 0 (edge case), otherwise set the res to nums[k-1]. Loop through array and kepe counter, in the end check if the result is negative, bigger than the edge case or equal to k, if yes return -1, else return the result found earlier.|[Code](problems/codeforces/1200/977C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/977/C)|
 |11|1352B|1200|Check if the number can be split into mutliple pieces of 1s and 2s, where then the last number can be filled with one big number. Check if its possible for odd and for even numbers. If yes output the result, if not then output no.|[Code](problems/codeforces/1200/1352B.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1352/B)|
 |10|1343C|1200|Use two pointers to always find the biggest current sum, calculate the maximum of that and output it.|[Code](problems/codeforces/1200/1343C.cpp)|[CF-URL](https://codeforces.com/problemset/problem/1343/C)|
